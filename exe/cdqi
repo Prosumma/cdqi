@@ -16,7 +16,7 @@ $options.output_path = nil
 $options.merged = false
 $options.excluded_entities = []
 $options.included_entities = []
-$options.access_modifier = ""
+$options.access_modifier = "public "
 $options.suffix = "Attribute"
 $options.indent = 4
 
